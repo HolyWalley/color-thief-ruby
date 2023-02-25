@@ -3,7 +3,7 @@
 require_relative "lib/color_thief_ruby/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "color_thief"
+  spec.name = "color-thief"
   spec.version = ColorThiefRuby::VERSION
   spec.authors = ["HolyWalley"]
   spec.email = ["yasha.krasnov@gmail.com"]
