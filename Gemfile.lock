@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    color_thief (0.1.0)
+      rutie (~> 0.0.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.17.0)
+    rake (13.0.6)
+    rutie (0.0.4)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  color_thief!
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.4.1
